@@ -1,5 +1,5 @@
 ### Editors  
-* [Neovim](hhttps://github.com/neovim/neovim) — Базовый редактор.
+* [Neovim](https://github.com/neovim/neovim) — Базовый редактор.
 * [LazyVim](https://github.com/LazyVim/LazyVim) — Дистрибутив конфига для Neovim.
 
 ### Kubernetes
